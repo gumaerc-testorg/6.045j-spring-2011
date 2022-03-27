@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 31c3ec8a-d62c-2e08-1744-cc09a62f0b37
 resourcetype: Document
 title: MIT6_045JS11_assn02.pdf
 uid: d006afa9-82ad-eddf-b0e4-fe57a64a67df
