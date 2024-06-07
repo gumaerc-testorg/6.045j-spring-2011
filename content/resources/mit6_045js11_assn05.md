@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problem sets related to NP-completeness and more.
 file: /courses/6-045j-automata-computability-and-complexity-spring-2011/86757e8722b0a4be15955ad02a8fc8a8_MIT6_045JS11_assn05.pdf
+file_size: 81229
 file_type: application/pdf
 learning_resource_types:
 - Assignments
