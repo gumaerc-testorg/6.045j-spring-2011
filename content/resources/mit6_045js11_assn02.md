@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem sets related to automata, computability,
   and complexity.
-file: /courses/6-045j-automata-computability-and-complexity-spring-2011/d006afa982adeddfb0e4fe57a64a67df_MIT6_045JS11_assn02.pdf
+file: /ol-ocw-studio-app/courses/6-045j-automata-computability-and-complexity-spring-2011/d006afa982adeddfb0e4fe57a64a67df_MIT6_045JS11_assn02.pdf
 file_size: 66876
 file_type: application/pdf
 learning_resource_types:
