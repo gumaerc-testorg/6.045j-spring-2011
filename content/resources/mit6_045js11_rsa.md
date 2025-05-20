@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to the basics of cryptography,
   symmetric cryptography, pseudorandom number generators.
-file: /ol-ocw-studio-app/courses/6-045j-automata-computability-and-complexity-spring-2011/a58157daa3e96833038e8169b8978393_MIT6_045JS11_rsa.pdf
+file: /courses/6-045j-automata-computability-and-complexity-spring-2011/a58157daa3e96833038e8169b8978393_MIT6_045JS11_rsa.pdf
 file_size: 241423
 file_type: application/pdf
 learning_resource_types:
