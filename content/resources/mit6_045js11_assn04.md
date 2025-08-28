@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem sets related to polynomial-time reducibility
   and circuit complexity.
-file: /courses/6-045j-automata-computability-and-complexity-spring-2011/9d1276baa7626b1016446aee9aefb426_MIT6_045JS11_assn04.pdf
+file: /ol-ocw-studio-app/courses/6-045j-automata-computability-and-complexity-spring-2011/9d1276baa7626b1016446aee9aefb426_MIT6_045JS11_assn04.pdf
 file_size: 84646
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem sets related to randomness and cryptography.
-file: /courses/6-045j-automata-computability-and-complexity-spring-2011/8a75f276cbe6cafdb75fdf7e0c4028a8_MIT6_045JS11_assn06.pdf
+file: /ol-ocw-studio-app/courses/6-045j-automata-computability-and-complexity-spring-2011/8a75f276cbe6cafdb75fdf7e0c4028a8_MIT6_045JS11_assn06.pdf
 file_size: 76193
 file_type: application/pdf
 learning_resource_types:
