@@ -35,7 +35,7 @@ Moore, Cristopher, and Stephan Mertens. _The Nature of Computation_. Oxford Univ
 
 Sipser, Michael. _Introduction to the Theory of Computation_. Course Technology, 2005. ISBN: 9780534950972. Covers most material from the first half of the course.
 
-Arora, Sanjeev, and Boaz Barak. [_Computational Complexity: A Modern Approach_](https://theory.cs.princeton.edu/complexity/book.pdf). Cambridge University Press, 2009. ISBN: 9780521424264. Covers most material from the second half (as well as more advanced material that won't be covered in this course).
+Arora, Sanjeev, and Boaz Barak. {{% resource_link "f09c0c8a-633e-4624-8d7b-b7641d29324c" "_Computational Complexity: A Modern Approach_" %}}. Cambridge University Press, 2009. ISBN: 9780521424264. Covers most material from the second half (as well as more advanced material that won't be covered in this course).
 
 Problem Sets
 ------------
